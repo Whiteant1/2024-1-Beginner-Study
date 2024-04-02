@@ -15,7 +15,8 @@
 - 같은 레포지토리에서 서로 다른 분기로 나뉘어서 작업할 수 있음 
 - Branch Naming 하는 법 --> "type/<issue번호>-<간략한 설명>"
 
-### Pull Request- 분기된 Branch를 다시 병합하기 위해 요청, 충돌 여부 확인
+### Pull Request
+- 분기된 Branch를 다시 병합하기 위해 요청, 충돌 여부 확인
 
 ### Merge
 - Merge Commit - 두 브랜치를 공통 부모로 하는 새 브런치 생성 후 main브랜치로 병합
