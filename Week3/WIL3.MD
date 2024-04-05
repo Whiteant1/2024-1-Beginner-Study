@@ -18,4 +18,4 @@
 - reset --hard: 커밋 완전 삭제
 ### revert
 - commit을 삭제하지 않고 이전 commit을 되돌린 commit을 새롭게 생성
-- 이전 커밋을 되돌리므로 reset 보다 안전함
+- 이전 커밋을 되돌리므로 reset 보다 안전
